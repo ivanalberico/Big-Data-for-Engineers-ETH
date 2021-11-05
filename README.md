@@ -1,7 +1,7 @@
 # Big-Data-for-Engineers-ETH
 Weekly programming exercises for the ETH course "Big Data for Engineers" (Spring 2021).
 
-<br/><br/>  
+#
 
 The topics covered in the exercises are the following:
 
@@ -21,15 +21,15 @@ The topics covered in the exercises are the following:
 </ul>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/64502909/140437487-a320e54b-5575-4362-b6b3-f8b990f88d09.png"/>
+ <img height="200" src="https://user-images.githubusercontent.com/64502909/140437487-a320e54b-5575-4362-b6b3-f8b990f88d09.png"/>
 </p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/64502909/140437491-158264ed-43ec-4ec1-ad1e-d1f02925d566.png"/>
+ <img height="200" src="https://user-images.githubusercontent.com/64502909/140437491-158264ed-43ec-4ec1-ad1e-d1f02925d566.png"/>
 </p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/64502909/140437494-9910cfd3-b8e7-4464-ac39-4baa408b95ba.png"/>
+ <img height="200" src="https://user-images.githubusercontent.com/64502909/140437494-9910cfd3-b8e7-4464-ac39-4baa408b95ba.png"/>
 </p>
 
 <p align="center">
@@ -37,10 +37,10 @@ The topics covered in the exercises are the following:
 </p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/64502909/140437501-7d74ad7d-324e-43b3-82c5-70a7e20f507b.png"/>
+ <img height="200" src="https://user-images.githubusercontent.com/64502909/140437501-7d74ad7d-324e-43b3-82c5-70a7e20f507b.png"/>
 </p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/64502909/140437507-ddee5fc7-f4ad-4a7f-8336-87b2d1390c9d.png"/>
+ <img height="200" src="https://user-images.githubusercontent.com/64502909/140437507-ddee5fc7-f4ad-4a7f-8336-87b2d1390c9d.png"/>
 </p>
 
