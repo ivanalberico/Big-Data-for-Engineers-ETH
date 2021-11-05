@@ -33,11 +33,11 @@ The topics covered in the exercises are the following:
 </p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/64502909/140437500-ba5aca0e-e5b7-49df-9bc1-ac5b0882a703.png"/>
+ <img  height="350" src="https://user-images.githubusercontent.com/64502909/140437500-ba5aca0e-e5b7-49df-9bc1-ac5b0882a703.png"/>
 </p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/64502909/140437501-7d74ad7d-324e-43b3-82c5-70a7e20f507b.pn"/>
+ <img src="https://user-images.githubusercontent.com/64502909/140437501-7d74ad7d-324e-43b3-82c5-70a7e20f507b.png"/>
 </p>
 
 <p align="center">
